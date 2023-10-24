@@ -249,7 +249,7 @@ When attempting to run `terraform login` it will launch bash a wiswig view to ge
 The workaround is manually generate a token in Terraform Cloud. 
 
 ```
-https://app.terraform.io/app/settings/tokens?source=terraform-login
+https://app.terraform.io/app/settings/tokens?source=terraform-login/
 ```
 
 Then create the file manually here:
